@@ -1,19 +1,21 @@
 <?php include "includes/header.php"?>
-
-<!-- START LEFT COL -->
-<section>
- <h2 class="pageID">Welcome</h2>
-
-<!-- MAKE SURE YOU GET YOUR (3) IMAGES SAVED INTO YOUR IMAGES FOLDER -->
- <p> This page will be the first page for my Final Project</p>
-</section>
-<!-- END LEFT COL -->
-
-<!-- START RIGHT COL -->
-<aside>
- <p>Lorem Ipsum place holder text goes here for now</p>
- <p>Lorem Ipsum place holder text goes here for now</p>
-</aside>
-<!-- END RIGHT COL -->
- 
-<?php include "includes/footer.php"?>
+    <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    </p>
+    
+   </section>
+      <!-- end left column -->
+      
+      <!-- start right column -->
+      <aside>
+        <h3>Hours of Operation</h3>
+        <ul>
+           <li>Monday - Friday: 5am - 3pm</li> 
+           <li>Saturday: 6am - 2pm</li> 
+           <li>Sunday: 8am - 12pm</li> 
+        </ul>
+      </aside>
+      <!-- end right column -->
+      
+   
+  </div>
+  <?php include "includes/footer.php"?>

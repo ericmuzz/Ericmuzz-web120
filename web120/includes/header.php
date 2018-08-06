@@ -16,7 +16,7 @@
 <!-- START WRAPPER -->
 <div class="wrapper">
 <header>
-  <h1><a href="index.php"><i class="logo fa fa-home"></i>Eric Muzzarelli's WEB120 Portal</a></h1>
+  <h1><a href="index.php"><i class="logo fa <?=$logo?>"></i>Eric Muzzarelli's WEB120 Portal</a></h1>
   <nav>
     <ul class="topnav" id="myTopnav">
     <?=makeLinks($nav1)?>
@@ -27,8 +27,8 @@
       <li><a href="flowchart.php">Flowchart</a></li>
       <li><a href="fp/index.php">Final Project</a></li>
       <li><a href="contactme.php">Contact Eric</a></li>
-      <li class="icon"> <a href="javascript:void(0);" onclick="myFunction()">&#9776;</a> </li>
     -->
+      <li class="icon"> <a href="javascript:void(0);" onclick="myFunction()">&#9776;</a> </li>
     </ul>
   </nav>
 </header>

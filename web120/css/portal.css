@@ -1,11 +1,15 @@
 /* My WEB120 Portal Website Styles */
 
 html {
-    background-color:#ccc;
+    background-color:#B6F4B7;
+}
+
+footer{
+    text-align: center;
 }
 
 div.wrapper {
-    background-color:#fff;
+    background-color:#C5B9B9;
     overflow:auto;
 }
 
@@ -16,10 +20,20 @@ section.fullwidth {
 h1>a {
     text-decoration: none;
     color:#000;
+    text-align: center;
+}
+
+h1, h2, h3{
+  text-align: center;
+  color: #531450;
+}
+
+p {
+  margin: 1em;
 }
 
 .logo {
-    color:red;
+    color:#531450;
     margin-left:1%;
     text-shadow:1px 1px #ccc;
     font-size:1.25em;
@@ -62,7 +76,7 @@ footer {
 		float:left;
 	}
 	
-     aside {	
+    aside {	
 		width:34%;
 		float:right;
 	}
@@ -71,6 +85,7 @@ footer {
     img.desktop {
       		 float:left;
        		width:50%;
+          margin-right: 1em;
    	 }
     
     img.tablet, img.phone {

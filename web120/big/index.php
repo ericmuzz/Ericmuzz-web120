@@ -1,19 +1,16 @@
 <?php include "includes/header.php"?>
 
-<!-- START LEFT COL -->
-<section>
- <h2 class="pageID">Welcome</h2>
-
-<!-- MAKE SURE YOU GET YOUR (3) IMAGES SAVED INTO YOUR IMAGES FOLDER -->
-
- <p> This page will be my BIG websites first page</p>
+<?php include "includes/multiple.php";?>
+<p class="clear-recaptcha"></p>
 </section>
 <!-- END LEFT COL -->
 
 <!-- START RIGHT COL -->
 <aside>
- <p>Lorem Ipsum place holder text goes here for now</p>
- <p>Lorem Ipsum place holder text goes here for now</p>
+ <h3>Basic Website Design Cycle</h3>
+ <p><a href="https://www.w3schools.com/htmL/">W3 Schools</a></p>
+ <p><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">Mozilla Developer</a></p>
+ <p><a href="https://www.lynda.com/">Lynda.com</a></p>
 </aside>
 <!-- END RIGHT COL -->
  
