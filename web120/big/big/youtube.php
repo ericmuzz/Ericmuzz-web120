@@ -1,15 +1,15 @@
 <?php include "includes/header.php"?>
 
-	<div class="embed-container"><iframe src='https://www.youtube.com/embed/vEROU2XtPR8' frameborder='0' allowfullscreen></iframe></div>
+	<div class="embed-container"><iframe src='https://www.youtube.com/embed/6vcBKwnl_Y0' frameborder='0' allowfullscreen></iframe></div>
 </section>
 <!-- END LEFT COL -->
 
 <!-- START RIGHT COL -->
 <aside>
  <h3>Resource Websites</h3>
- <p><a href="https://www.w3schools.com/jS/default.asp">W3 Schools: JavaScript</a></p>
- <p><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Mozilla Developer: JavaScript</a></p>
- <p><a href="https://www.lynda.com/JavaScript-training-tutorials/244-0.html">Lynda.com JavaScript Tutorial</a></p>
+ <p><a href="https://www.wpbeginner.com/glossary/content-management-system-cms/">What is CMS?</a></p>
+ <p><a href="https://www.impactbnd.com/blog/top-10-cms-platforms-for-digital-marketing">Top 10 CMS Systems</a></p>
+ <p><a href="https://en.wikipedia.org/wiki/Content_management_system">Wikipedia - CMS</a></p>
 </aside>
 <!-- END RIGHT COL -->
  
