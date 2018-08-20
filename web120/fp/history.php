@@ -9,9 +9,9 @@
       <aside>
         <h3>Hours of Operation</h3>
         <ul>
-           <li>Monday - Friday: 5am - 3pm</li> 
-           <li>Saturday: 6am - 2pm</li> 
-           <li>Sunday: 8am - 12pm</li> 
+           <li>Monday - Friday: 8am - 6pm</li> 
+           <li>Saturday: By appointment only</li> 
+           <li>Sunday: Closed</li> 
         </ul>
       </aside>
       <!-- end right column -->

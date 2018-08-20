@@ -8,12 +8,14 @@ html {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    width: 100%;
 }
 
 div.wrapper {
  margin: auto;/* if this is smaller than its parent HTML, then center it within the parent*/
  overflow: auto;/*be aware of any floated objects and expand to include them */
  display: inline-block;
+ width: 100%;
 }
 
 section.leftcol{
@@ -136,7 +138,13 @@ footer{
 
 /* PHONE */
 @media all and (max-width:736px) {
-        section.leftcol {
+    div.wrapper {
+        width: 100%;
+        background-size: cover;
+        background-position: center;
+    }
+
+    section.leftcol {
         float:left;
         width: 100%;
     }
@@ -145,6 +153,5 @@ footer{
         float:left;
         width: 100%;
     }
-
 
 }
